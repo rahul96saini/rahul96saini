@@ -1,83 +1,59 @@
-Hey, I am Rahul Saini
-Monitoring Engineer | Aspiring DevOps Engineer | Uttarakhand, India
+<h1 align="center">Hey 👋, I'm Rahul Saini</h1>
+<p align="center">
+  👨‍💻 Monitoring Engineer &nbsp;|&nbsp; 🚀 Aspiring DevOps Engineer &nbsp;|&nbsp; 📍 Uttarakhand, India
+</p>
 
-💼 About Me
+---
 
-IT professional with 3+ years of experience, including 1 year as a Monitoring Engineer, with hands-on exposure to:
+<div style="display: flex; gap: 30px;">
 
-Linux & Networking
+| About Me | 🌐 What I Do |
+| :--- | :--- |
+| I am an IT professional with **3+ years of experience**, including **1 year as a Monitoring Engineer**, with strong hands-on exposure to Linux, Networking, Cloud, Kubernetes, Terraform, Monitoring, and Automation. <br><br> I aim to grow as a **Cloud / DevOps Engineer**, contributing to cloud automation, infrastructure reliability, container orchestration, observability, and private cloud platforms. <br><br> I enjoy troubleshooting, learning cutting-edge tools, and building practical projects that strengthen my DevOps skills. | I work on projects related to **Kubernetes**, **Monitoring**, **Terraform**, **Cloud Infrastructure**, **CI/CD**, and **Docker**. <br><br> I also share technical content through blogs, LinkedIn posts, and hands-on experiments focused on DevOps, observability, and cloud engineering. <br><br> My goal is to build expertise through real-world projects and grow within the DevOps community. |
 
-Monitoring & Observability
+</div>
 
-Kubernetes & Containerization
+---
 
-Terraform & Infrastructure as Code
+<div style="display: flex; gap: 30px; width: 100%;">
 
-AWS Cloud Infrastructure
+| Skills | Experience |
+| :--- | :--- |
+| **Monitoring & Observability** <br><br> **Networking** <br><br> **Cloud Computing** <br><br> **Infrastructure as Code (IaC)** <br><br> **Container Orchestration** <br><br> **CI/CD & Automation** <br><br><br> **Software & Tools:** <br> Grafana, Prometheus <br> AWS (EC2, CloudWatch, IAM, ECR, ECS) <br> Linux, Bash Scripting <br> Terraform <br> Kubernetes <br> Docker & Docker Compose <br> GitHub & GitHub Actions | **08-2024 – Present | Qappa Labs, Dehradun | Monitoring Engineer** <br> - Resolved monitoring alerts following runbooks to ensure system stability. <br> - Diagnosed issues like high CPU, memory leaks, latency, disk issues, and service failures using Grafana & Prometheus. <br> - Created and updated runbooks to optimize troubleshooting processes. <br> - Built Grafana dashboards for real-time & historical analysis. <br> - Escalated unresolved issues with RCA and logs to L2. <br><br> **03-2024 – 07-2024 | Diverse Lynx, Noida | Technical Recruiter** <br> - Screened candidates based on skill, experience, and culture fit. <br> - Sourced via LinkedIn, Monster, CareerBuilder, and Dice. <br> - Managed ATS and recruitment reports. <br> - Gained strong understanding of DevOps, cloud, IaC, and CI/CD by reviewing technical JDs. <br><br> **09-2022 – 02-2024 | Acestack LLC, Noida | Technical Recruiter** <br> - Sourced talent from LinkedIn, Monster, and CareerBuilder. <br> - Worked on C2C, W2, and Full-time hiring. <br> - Recruited US Citizens, GC holders, H1B, TN, and OPT candidates. <br> - Matched candidate profiles with client job requirements. |
 
-Aspiring to grow as an IT Infrastructure & Cloud/DevOps Engineer, contributing to cloud automation, container orchestration, monitoring solutions, and private cloud setups. Known for strong troubleshooting ability, curiosity, and continuous learning.
+</div>
 
-📄 Profile Overview
-<table> <tr> <td width="50%" valign="top">
-⚙️ Skills
+---
 
-Monitoring & Observability
-Networking
-Cloud Computing
-Infrastructure as Code (IaC)
-Container Orchestration
-CI/CD & Automation
+<table>
+  <tr valign="top">
+    <td width="50%">
+      <a href="https://github.com/rahul96saini">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul96saini&theme=github-compact&custom_title=Contribution%20Graph%20(28%20days)&hide_border=true&days=28" alt="Rahul's GitHub commit graph" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rahul96saini&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-🧰 Software & Tools
+---
 
-Grafana, Prometheus
+## 📫 Connect with Me
 
-AWS (EC2, CloudWatch, IAM, ECR, ECS)
+<p align="center">
+  <a href="mailto:rahulsaini96.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rahul-saini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahul96saini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Linux, Bash Scripting
+---
 
-Terraform
-
-Kubernetes
-
-Docker & Docker Compose
-
-GitHub, GitHub Actions
-
-</td> <td width="50%" valign="top">
-💼 Experience
-08-2024 – Present | Qappa Labs, Dehradun | Monitoring Engineer
-
-Resolved monitoring alerts following runbooks to ensure system stability.
-
-Followed SOPs and runbooks to handle recurring issues.
-
-Created and updated runbooks to streamline troubleshooting workflows.
-
-Handled incidents including high CPU, memory leaks, latency, disk issues, and service failures using Prometheus & Grafana.
-
-Built and maintained Grafana dashboards for real-time and historical monitoring.
-
-Escalated unresolved issues with detailed RCA and logs to L2 engineers.
-
-03-2024 – 07-2024 | Diverse Lynx, Noida | Technical Recruiter
-
-Screened and shortlisted candidates based on skills, experience, and culture fit.
-
-Sourced talent using LinkedIn, Monster, CareerBuilder, and Dice.
-
-Managed ATS records and prepared recruitment reports.
-
-Gained strong understanding of DevOps, cloud, monitoring, IaC, and CI/CD while analyzing technical job descriptions.
-
-09-2022 – 02-2024 | Acestack LLC, Noida | Technical Recruiter
-
-Sourced candidates from LinkedIn, CareerBuilder, and Monster.
-
-Experienced in C2C, W2, and Full-time hiring.
-
-Recruited US Citizens, GC holders, TN, H1B, OPT EAD candidates.
-
-Screened profiles and matched candidates with client requirements.
-
-</td> </tr> </table>
+<h3 align="center">Thanks for visiting! 😊</h3>
