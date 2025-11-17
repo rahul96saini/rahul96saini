@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I am Rahul Saini</h1>
-<p align="center"> 🖥️ <strong>Monitoring Engineer</strong> &nbsp;|&nbsp; 🚀 <strong>Aspiring DevOps Engineer</strong> &nbsp;|&nbsp; 📍 Uttarakhand, India </p>
+<p align="center">  <strong>Monitoring Engineer</strong> &nbsp;|&nbsp;  <strong>Aspiring DevOps Engineer</strong> &nbsp;|&nbsp;  Uttarakhand, India </p>
 
 🌟 About Me
 
