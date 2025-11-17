@@ -10,7 +10,7 @@ Strong troubleshooting skills, a curious mindset, and eagerness to learn emergin
 
 <table> <tr> <!-- LEFT SECTION --> <td width="50%" valign="top">
   
-  ## 💡 Core Skills  
+  ## 💡 Skills  
   - Monitoring & Observability  
   - Networking  
   - Cloud Computing  
@@ -18,7 +18,7 @@ Strong troubleshooting skills, a curious mindset, and eagerness to learn emergin
   - Container Orchestration  
   - CI/CD Automation  
 
-  ## 🔧 Tools & Platforms  
+  ## 🔧 Tools & Softwares  
   - Grafana  
   - Prometheus  
   - AWS CloudWatch  
